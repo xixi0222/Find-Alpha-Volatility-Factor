@@ -1,7 +1,7 @@
 # Find-Alpha-Volatility-Factor
 
 #### Brief Introduction
-1. Use total, upper, down, relative volatility factors to find **Alpha**.   
+1. Use total, upper, down, relative **volatility factors** to find **Alpha**.   
 2. Define own functions for trading direction & volume.   
 3. Implement whole **trading process** & back-test with daily frequency.   
 4. Calculate and record important financial data.   
@@ -20,13 +20,13 @@
 
 #### Results
 1. RSJ has the best result in most years.  
-2. Volatility Factors Windows: **Shorter** Time are better. 5 days, 10 days, 15 days windows perform better than long-time windows.  
-3. Macro Factors Windows: **Longer** Time are better. 24 months provides a better PnL, return and maximum drawdown.  
+2. Volatility Factors Windows: **Shorter** Time is better. 5 days, 10 days, 15 days windows perform better than long-time windows.  
+3. Macro Factors Windows: **Longer** Time is better. 24 months provides a better PnL, return and maximum drawdown.  
 4. Period Analysis:  
- * This model follows the trend.
- * It has a conservative approach. When the market is very volatile, it follows the trend but does not go as high or as low as CSI500. 
- * It needs improvement in markets with high volatility.
- * It Performs good in stable conditions. Comparing with the last two years, it overperforms the Chinese market by 30%.
+ * This model follows the trend of the market.
+ * It has a conservative approach. When the market is very volatile, it does not go as high or as low as CSI500. 
+ * It needs improvement in a market with high volatility.
+ * It performs good in stable conditions. It overperforms the Chinese market by 30% in last two years.
  
 
 *Data: CSI500 Index  
