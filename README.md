@@ -1,4 +1,4 @@
-# Find-Alpha-Volatility-Factor
+## Find Alpha Volatility Factor
 
 #### Brief Introduction
 1. Use total, upper, down, relative **volatility factors** to find **Alpha**.   
